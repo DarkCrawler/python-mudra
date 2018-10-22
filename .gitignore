@@ -1,0 +1,4 @@
+.idea/
+dbhandler/__init__.py
+models/__init__.py
+scrapper/__init__.py
